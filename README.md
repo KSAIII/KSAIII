@@ -1,21 +1,20 @@
-<h1 align="center">Hi 👋, I'm Sai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 💫 About Me:
+👋 Hey there, I'm Sai!<br><br>🌐 About Me:<br>I'm a passionate web developer on a journey to create meaningful online experiences. My fascination with coding and design has led me into the dynamic world of web development, where every line of code I write is a step towards crafting interactive and visually appealing websites.<br><br>🚀 Learning and Collaborating:<br>Currently, I'm dedicated to enhancing my web development skills. From mastering HTML, CSS, and JavaScript to diving into front-end frameworks and back-end technologies, I'm on a continuous learning adventure. I strongly believe in the power of collaboration, and I'm actively seeking opportunities to work with like-minded developers on exciting projects.<br><br>🔗 Let's Build Together:<br>If you have a project in mind or if you're looking for a fellow developer to collaborate with, count me in! Whether it's a creative website, an e-commerce platform, or an innovative web app, I'm eager to contribute my skills and enthusiasm to make it a reality.<br><br>🎉 Fun Fact:<br>When I'm not immersed in coding, you can find me exploring hiking trails. Just like coding, each trail offers unique challenges and rewards, reminding me of the journey in web development.<br><br>🌟 Let's Connect:<br>I'm always open to connecting with fellow developers, designers, and tech enthusiasts. Feel free to drop me a message here on GitHub or connect with me on LinkedIn. Together, we can turn ideas into functional, beautiful web experiences!<br><br>Thanks for stopping by, and I can't wait to see where our coding adventures take us!<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai&label=Profile%20views&color=0e75b6&style=flat" alt="sai" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sai" target="blank"><img src="https://img.shields.io/twitter/follow/sai?logo=twitter&style=for-the-badge" alt="sai" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_sai.2002_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kallolisai/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Sai67030806) 
 
-- 📫 How to reach me **kallolisai15@gmail.com**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KSAIII&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KSAIII&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KSAIII&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/kallolisai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kallolisai" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KSAIII&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=KSAIII&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai&show_icons=true&locale=en" alt="sai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sai&" alt="sai" /></p>
