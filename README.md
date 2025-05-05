@@ -1,20 +1,54 @@
-# 💫 About Me:
-👋 Hey there, I'm Sai!<br><br>🌐 About Me:<br>I'm a passionate web developer on a journey to create meaningful online experiences. My fascination with coding and design has led me into the dynamic world of web development, where every line of code I write is a step towards crafting interactive and visually appealing websites.<br><br>🚀 Learning and Collaborating:<br>Currently, I'm dedicated to enhancing my web development skills. From mastering HTML, CSS, and JavaScript to diving into front-end frameworks and back-end technologies, I'm on a continuous learning adventure. I strongly believe in the power of collaboration, and I'm actively seeking opportunities to work with like-minded developers on exciting projects.<br><br>🔗 Let's Build Together:<br>If you have a project in mind or if you're looking for a fellow developer to collaborate with, count me in! Whether it's a creative website, an e-commerce platform, or an innovative web app, I'm eager to contribute my skills and enthusiasm to make it a reality.<br><br>🎉 Fun Fact:<br>When I'm not immersed in coding, you can find me exploring hiking trails. Just like coding, each trail offers unique challenges and rewards, reminding me of the journey in web development.<br><br>🌟 Let's Connect:<br>I'm always open to connecting with fellow developers, designers, and tech enthusiasts. Feel free to drop me a message here on GitHub or connect with me on LinkedIn. Together, we can turn ideas into functional, beautiful web experiences!<br><br>Thanks for stopping by, and I can't wait to see where our coding adventures take us!<br>
+ Hey there, I'm Sai!<br><br>
 
+🌐 **About Me**:<br>
+I'm a dedicated **Flutter + Firebase developer** passionate about building cross-platform mobile apps that are fast, reliable, and scalable. From beautiful UI designs to seamless backend integration, I love turning ideas into full-fledged mobile experiences using Flutter and Firebase.<br><br>
+
+🚀 **Learning and Collaborating**:<br>
+Currently, I'm sharpening my skills in **Dart, Flutter, Firebase Auth, Firestore, and Cloud Functions**. I'm also exploring state management techniques like **BLoC** and **Riverpod** to write clean, maintainable code. I’m always eager to work on collaborative projects—especially those that aim to solve real-world problems.<br><br>
+
+🔗 **Let’s Build Together**:<br>
+Have an app idea that needs both frontend finesse and backend power? Let’s team up! I’m ready to contribute to everything from **authentication flows** and **database-driven apps** to **real-time chat**, **expense trackers**, or **delivery platforms**.<br><br>
+
+🎉 **Fun Fact**:<br>
+Just like debugging code, I enjoy navigating hiking trails—each path full of challenges and discoveries!<br><br>
+
+🌟 **Let’s Connect**:<br>
+Whether you're a fellow developer, designer, or tech enthusiast, I’d love to connect. Let’s create something meaningful together!
+
+---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_sai.2002_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kallolisai/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Sai67030806) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_sai.2002_/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kallolisai/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Sai67030806)  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-# 📊 GitHub Stats:
+---
+
+## 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+> I also have prior experience with web technologies like HTML, CSS, JavaScript, and Bootstrap.
+
+---
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KSAIII&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KSAIII&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KSAIII&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KSAIII&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=KSAIII&icon=0&color=11)](https://visitcount.itsvg.in)
+
 
